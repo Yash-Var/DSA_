@@ -2,6 +2,8 @@
   "files.associations": {
     "files.associations": "\"**.js\": \"javascriptreact\"",
     "*.js": "javascript",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "cmath": "cpp",
+    "iostream": "cpp"
   }
 }
